@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Poppins&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Poppins', sans-serif;
+	font-size : 20px;
+	margin: 0px;
+	position: center;
+}
+h1, h2, h3 {
+	font-family: 'Manrope', sans-serif;
+	font-weight: bolder;
+	position: center;
+}
+a {
+	text-decoration: none;
+}
